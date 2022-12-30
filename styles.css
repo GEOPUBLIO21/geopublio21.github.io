@@ -10,3 +10,9 @@ body {
   height: 300px;
   display: block;
 }
+
+#dogpictureframe {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+}
